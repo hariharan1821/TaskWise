@@ -27,6 +27,3 @@
 | API Docs   | Swagger (OpenAPI)     |
 
 ---
-
-## 📁 Project Structure
-
